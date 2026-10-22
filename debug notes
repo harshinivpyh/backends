@@ -2,7 +2,7 @@
 
 Random notes from fixing old scripts. Keeping these here in case I run into the same problems again.
 
-## 12 March 2025
+## 12 March 2024
 Fixed a path issue in the file organizer. It was reading from the wrong directory.
 
 ## 4 June 2025
