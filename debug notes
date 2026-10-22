@@ -1,0 +1,17 @@
+# Debugging Notes
+
+Random notes from fixing old scripts. Keeping these here in case I run into the same problems again.
+
+## 12 March 2025
+Fixed a path issue in the file organizer. It was reading from the wrong directory.
+
+## 4 June 2025
+The archive parser failed when filenames contained spaces. Added a basic cleanup function.
+
+## 17 August 2025
+Moved the old photo index out of the main project directory. Some filenames didn't match the new naming format.
+
+Previous reference: `IMG_ARCHIVE_017`
+
+## 2 February 2026
+Cleaned up some old branches and removed a few unused scripts. Still need to check the archived files.
