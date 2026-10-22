@@ -1,0 +1,18 @@
+# Development Log
+
+## 2024
+Started collecting small scripts for automating repetitive tasks. Most were written to solve problems I encountered while studying.
+
+## 2025
+Reorganized the repository and moved several experiments into separate folders. The old archive was getting difficult to maintain.
+
+## August 2025
+Tested an external image host for storing screenshots and reference images. Kept the original index locally.
+
+## February 2026
+Returned to this repository to clean up documentation and remove scripts I no longer use.
+
+TODO:
+- [ ] Review old archive references
+- [ ] Update project descriptions
+- [ ] Find the missing index entry
